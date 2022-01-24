@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bubble Gold
+* source:	https://sketchfab.com/3d-models/bubble-gold-bcbf07f437c04554a96a6dca19b6f2e4
+* author:	FranzAlvior (https://sketchfab.com/FranzAlvior)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bubble Gold" (https://sketchfab.com/3d-models/bubble-gold-bcbf07f437c04554a96a6dca19b6f2e4) by FranzAlvior (https://sketchfab.com/FranzAlvior) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
